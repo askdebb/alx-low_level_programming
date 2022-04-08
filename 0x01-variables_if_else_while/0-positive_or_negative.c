@@ -4,8 +4,8 @@
 /* more headers goes there */
 
 /* main - produce random integer numbers */
-int main(void)                   
-{
+int main(void)
+{	
 	int n;
 
 	srand(time(0));
