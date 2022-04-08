@@ -2,10 +2,16 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-
+/**
+ *  main - this is the entry point 
+ *  of the program
+ *  has some other functions that produces
+ *  random numbers and determine whether they are
+ *  positive or negative or zero integers with a condition
+ *  /
 
 /* betty style doc for function main goes there */
-int main(void)                   /* main : the entry point for the program */
+int main(void)                   
 {
 	int n;
 
