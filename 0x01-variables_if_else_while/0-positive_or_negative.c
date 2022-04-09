@@ -6,7 +6,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main() program entry starts here */
+/**
+ * main program entry starts here
+ * Return: Always 0
+ */
 int main(void)
 {
 	int n;
