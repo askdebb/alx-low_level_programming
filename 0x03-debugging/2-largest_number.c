@@ -20,9 +20,9 @@ int largest_number(int a, int b, int c)
 	{
 		largest = b;
 	}
-	else (c > b && c > a)
+	else
 	{
 		largest = c;
-	{
+	}
 	return (largest);
 }
