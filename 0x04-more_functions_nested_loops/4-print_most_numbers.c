@@ -13,9 +13,8 @@
 void print_most_numbers(void)
 {
 	int startNum_0;
-	
+
 	startNum_0 = '0';
-	
 	for (; startNum_0 <= '9'; startNum_0++)
 	{
 		if (startNum_0 != '2' && startNum_0 != '4')
