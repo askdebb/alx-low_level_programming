@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 void print_integer(int m);
 
 /**
@@ -20,7 +20,7 @@ void print_number(int n)
 }
 
 /**
- * print_integer - A function to priting n
+ * print_integer - A function to printing n
  * @m: an input unsigned integer
  * Return: Nothing
  */
